@@ -1,1 +1,1 @@
-# Lambda-Times
+#  Mock News site built using HTML, CSS/LESS, jQuery
